@@ -1,8 +1,8 @@
 # org.javacream.training.jira
 
-* Referent: Rainer Sawitzki, eMail: training@rainer-sawitzki.de
+* Trainer: Rainer Sawitzki, eMail: training@rainer-sawitzki.de
 
-## Seminarzeiten
+## Timetable
 
-* 9:00 - 16:15
-* Pausen 10:30 - 10:45, 12:15 - 13:00 und 14:30 - 14:45
+* 9:00 - 12:15
+* Coffee break 10:30 - 10:45
